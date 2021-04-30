@@ -4,6 +4,7 @@ import Foundation
 a. Définir un initialiseur en utilisant les arguments uneAbscisse et uneOrdonnee
 b. Implémenter une propriété calculée en lecture seule « description » de type String qui retourne une description des propriétés de la classe (voir l’exemple d’exécution)
 */
+
 var objectArray = [Any?]()
 
 let unPoint = Coordonnees(uneAbscisse: 10, uneOrdonnee: 10)
